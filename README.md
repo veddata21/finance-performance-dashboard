@@ -18,5 +18,5 @@ This project showcases a financial performance dashboard built for a hypothetica
 ## 🧠 Learnings
 - Applied business analysis techniques to financial data
 - Extracted insights to guide decisions in marketing, operations, and finance
-[Dashboard](.png)
+[Dashboard](heatmap.png)
 
